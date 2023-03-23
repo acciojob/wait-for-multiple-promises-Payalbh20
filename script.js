@@ -1,4 +1,5 @@
 //your JS code here. If required.
+
 console.log("Promise Methods");
 
 let promise1 = new Promise((resolve, reject) => {
